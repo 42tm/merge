@@ -13,12 +13,12 @@ Here,
 
 ## Example
 
-### Concat 2 files:
+### Concatenate 2 files:
 ```
 merge text3.txt text1.txt text2.txt
 ```
 
-### Make a sound-picture:
+### Make a picture with music inside:
 ```
 merge output.jpg image.jpg music.mp3
 ```
