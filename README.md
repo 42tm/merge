@@ -1,5 +1,6 @@
 # merge
 Merge multiple files into one file
+
 This program merge files continuously and skip any error about files.
 
 ## Usage
